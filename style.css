@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    
+  background-image: linear-gradient(to right, rgb(255, 115, 115),rgb(255, 202, 103),rgb(255, 255, 138),rgb(146, 255, 146),rgb(153, 209, 255),rgb(209, 144, 255),violet);
+    text-align: center;
+}
+#b1{
+    height: 150px;
+    width: 650px;
+    font-size: 60px;
+}
+#aaa{
+    float: right;
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    border-radius: 10px;
+    border: black;
+    margin-top: 200px;
+}
+#back{
+    float:right;
+}
+#result{
+    margin-bottom: 200px;
+    padding: 100px;
+}
